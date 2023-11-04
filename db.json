@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "School Meeting",
+      "date": "5 Dec, at 13:00 PM",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Waterpolo Match",
+      "date": "7 Dec, at 10:00 AM",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Teambuilding Event",
+      "date": "15 Dec, at 18:00 PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Christmas Dinner",
+      "date": "25 Dec, at 19:00 PM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
